@@ -1,0 +1,5 @@
+dev-games/godot raycast
+
+# Compiling embree from source maxes out my RAM usage and crashes Hyprland/i3.
+# I need to specify this to install it as a binary ;-;
+media-libs/embree -cpu_flags_x86_avx -cpu_flags_x86_avx2 -cpu_flags_x86_sse4_2

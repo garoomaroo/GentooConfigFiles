@@ -1,0 +1,2 @@
+media-libs/freetype harfbuzz brotli
+app-arch/brotli abi_x86_32

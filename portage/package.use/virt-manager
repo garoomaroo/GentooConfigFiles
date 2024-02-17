@@ -1,0 +1,4 @@
+net-misc/spice-gtk usbredir
+net-dns/dnsmasq script
+net-libs/gnutls tools pkcs11
+app-crypt/p11-kit abi_x86_32

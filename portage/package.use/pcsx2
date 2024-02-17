@@ -1,0 +1,2 @@
+>=app-arch/xz-utils-5.4.5 abi_x86_32
+>=dev-libs/libaio-0.3.113 abi_x86_32

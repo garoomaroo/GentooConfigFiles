@@ -1,0 +1,3 @@
+gnome-base/gvfs udisks udisks2 zeroconf policykit fuse elogind
+dev-db/sqlite abi_x86_32
+sys-libs/readline abi_x86_32
